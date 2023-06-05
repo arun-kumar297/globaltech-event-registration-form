@@ -43,10 +43,12 @@ body {
     color: #ffffff;
     background-color: orange;
     font-size: 16px;
+    border-width: 0;
 }
 
 .footer-section {
     margin: 16px;
+    color: orange;
 }
 
 marquee {
